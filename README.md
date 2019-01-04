@@ -1,10 +1,16 @@
 # expressionEvaluation
 Here are some sample expressions of the kind my program will evaluate:
+
    3
+   
    Xyz
+   
    3-4*5
+   
    a-(b+A[B[2]])*d+3
+   
    A[2*(a+b)]
+   
    (varx + vary*varz[(vara+varb[(a+b)*33])])/55
    
 The expressions will be restricted to the following components:
